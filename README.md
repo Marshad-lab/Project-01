@@ -68,8 +68,8 @@ Technologies Used
 
 1. Clone repository
 
-git clone https:"//github.com/your-username/animal-image-classification-resnet.git
-cd animal-image-classification-resnet"
+``git clone https://github.com/your-username/animal-image-classification-resnet.git
+cd animal-image-classification-resnet``
 
 2. Install dependencies
    
