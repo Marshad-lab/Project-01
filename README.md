@@ -81,14 +81,6 @@ Open: Untitled0.ipynb
 
 //Update dataset path and run all cells//
 
-
-final Results:
-
-  Accuracy: 95.37%
-  Precision : 95.82%
-  Recall : 95.34%
-  F1-score: 95.38%
-
 Evaluation:
 
   Normalized confusion matrix
