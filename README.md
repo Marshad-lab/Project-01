@@ -77,8 +77,7 @@ pip install -r requirements.txt
 
 3. Run notebook
 
-Open:
-animal_classification.ipynb
+Open: Untitled0.ipynb
 
 //Update dataset path and run all cells//
 
